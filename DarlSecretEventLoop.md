@@ -1,4 +1,4 @@
-## The dark secrets of the event loop rxjs - st Laurent 3 - Gerard Sans
+## The dark secrets of the event loop rxjs - Gerard Sans
 
 ![1 slide event loop javascript](image.png)
 
@@ -39,6 +39,3 @@ Understanding the event loop in JavaScript is crucial for optimizing browser per
 **Conclusion:**
 
 Mastering the event loop in JavaScript is essential for optimizing browser performance and ensuring responsive web applications. By grasping the nuances of task queues, microtasks, and the event loop's execution phases, developers can write more efficient code, minimize blocking operations, and deliver exceptional user experiences in their web applications.
-
-
-- # [Official slides](https://github.com/confooca/2024/tree/main)
